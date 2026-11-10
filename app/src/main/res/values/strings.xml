@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">שומר שיחות</string>
+    <string name="channel_blocked">שיחות שנחסמו</string>
+    <string name="channel_blocked_desc">התראה על כל שיחה שנחסמה על ידי האפליקציה</string>
+    <string name="channel_hangup">ניתוק מתוזמן</string>
+    <string name="channel_hangup_desc">מוצג בזמן שהאפליקציה ממתינה לנתק שיחה</string>
+</resources>
